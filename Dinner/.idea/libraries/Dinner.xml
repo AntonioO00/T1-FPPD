@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Dinner">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Java/Dinner.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
